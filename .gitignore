@@ -3,3 +3,5 @@
 ################################################################################
 
 /PortCheck.Main/obj/Debug
+/PortCheck.Main/bin/Debug
+/.vs/PortCheck/v16
